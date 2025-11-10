@@ -15,7 +15,7 @@ Step-by-step guide to setup and run your Django app with Docker either as a **De
 ### Step 1: Install Docker
 1. Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop)
 2. Verify installation:
-   ```bash
+```bash
    docker --version
    ```
 
